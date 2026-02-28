@@ -24,3 +24,6 @@ He realizado proyectos basicos en clases e investigo proyectos para mejorar mis 
 
 ## RETOS: 
 -poder un profesional con python y javaScrop. 
+
+## LOGROS:
+-pude crear una calculadora en python

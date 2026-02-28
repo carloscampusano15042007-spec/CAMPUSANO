@@ -21,3 +21,6 @@ Soy estudiante de senati para programación en desarrollo de software con inteli
 
 ##  Experiencias previas:
 He realizado proyectos basicos en clases e investigo proyectos para mejorar mis habilidades.
+
+## RETOS: 
+-poder un profesional con python y javaScrop. 
